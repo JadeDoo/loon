@@ -2,7 +2,7 @@
  * @Author: JadeDoo 
  * @Date: 2021-06-15 21:16:15 
  * @Last Modified by: JadeDoo
- * @Last Modified time: 2021-06-16 20:35:33
+ * @Last Modified time: 2021-06-16 21:12:12
  */
 
 
@@ -58,4 +58,4 @@ function iosrule() {
 };
 
 const $iosrule = iosrule();
-console.log($iosrule);
+console.log($iosrule.notify("1","1","1"));
